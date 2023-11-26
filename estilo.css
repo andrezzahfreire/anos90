@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    color: white;
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRky9bscUikNbv-YuSqFXyeYHBhwhGt52PiMzNNfKJlxrb0RJOo);
+     max-width: 1200px;
+}
+
+.banner{
+    background-color:#eea853;
+}
+
+.banner2{
+    background-color: #00ff00;
+}
+
+.banner3{
+    background-color: #5550f5;
+}
+.banner4{
+    background-color: white;
+    color: black;
+}
+.fundoEstrela{
+    color: #00ff00;
+    background-image: url(https://img.freepik.com/premium-vector/space-background-with-stars-vector-illustration_97886-319.jpg);
+}
+
+.limitador{
+    margin: 20px;
+}
+
+.direita{
+    text-align: right;
+}
+
+.img{
+    max-width: 250px;
+}
+#a{
+    color: red;
+}
+
+#b{
+    color: green;
+}
+
+#c{
+    color: mediumturquoise;
+}
